@@ -1,0 +1,2 @@
+# News App
+Dynamic News App that provides different kinds of news (e.g. Political, finance, cricket, technology). It also contains search features to see news that you want and if you want to know detail of any individual news you simply can click on that and all the details will appear.  
